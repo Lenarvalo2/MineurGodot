@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/walk-sound-effect.mp3-e9e5d18e2125f7439a4c6f41db9bb307.mp3str"
+
+[deps]
+
+source_file="res://dodge_assets/art/walk-sound-effect.mp3"
+dest_files=[ "res://.import/walk-sound-effect.mp3-e9e5d18e2125f7439a4c6f41db9bb307.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

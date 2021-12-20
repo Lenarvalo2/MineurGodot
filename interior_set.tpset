@@ -1,0 +1,2073 @@
+{
+	"textures": [
+		{
+			"image": "interior_set.png",
+			"size": {
+				"w": 507,
+				"h": 256
+			},
+			"sprites": [
+				{
+					"filename": "interior-0.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-1.png",
+					"region": {
+						"x": 1,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-106.png",
+					"region": {
+						"x": 35,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-113.png",
+					"region": {
+						"x": 1,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-114.png",
+					"region": {
+						"x": 35,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-117.png",
+					"region": {
+						"x": 69,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-122.png",
+					"region": {
+						"x": 1,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-125.png",
+					"region": {
+						"x": 35,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-15.png",
+					"region": {
+						"x": 69,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-16.png",
+					"region": {
+						"x": 103,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-17.png",
+					"region": {
+						"x": 1,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-18.png",
+					"region": {
+						"x": 35,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-19.png",
+					"region": {
+						"x": 69,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-2.png",
+					"region": {
+						"x": 103,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-27.png",
+					"region": {
+						"x": 137,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-29.png",
+					"region": {
+						"x": 1,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-3.png",
+					"region": {
+						"x": 35,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-30.png",
+					"region": {
+						"x": 69,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-31.png",
+					"region": {
+						"x": 103,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-32.png",
+					"region": {
+						"x": 137,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-33.png",
+					"region": {
+						"x": 171,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-34.png",
+					"region": {
+						"x": 1,
+						"y": 205,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-8.png",
+					"region": {
+						"x": 1,
+						"y": 239,
+						"w": 32,
+						"h": 16
+					},
+					"margin": {
+						"x": 0,
+						"y": 4,
+						"w": 0,
+						"h": 16
+					}
+				},
+				{
+					"filename": "interior-4.png",
+					"region": {
+						"x": 35,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-43.png",
+					"region": {
+						"x": 69,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-45.png",
+					"region": {
+						"x": 103,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-46.png",
+					"region": {
+						"x": 137,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-51.png",
+					"region": {
+						"x": 171,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-52.png",
+					"region": {
+						"x": 205,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-53.png",
+					"region": {
+						"x": 35,
+						"y": 205,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-54.png",
+					"region": {
+						"x": 69,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-55.png",
+					"region": {
+						"x": 103,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-58.png",
+					"region": {
+						"x": 137,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-59.png",
+					"region": {
+						"x": 171,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-63.png",
+					"region": {
+						"x": 205,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-64.png",
+					"region": {
+						"x": 239,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-69.png",
+					"region": {
+						"x": 69,
+						"y": 205,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-70.png",
+					"region": {
+						"x": 103,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-71.png",
+					"region": {
+						"x": 137,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-72.png",
+					"region": {
+						"x": 171,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-74.png",
+					"region": {
+						"x": 205,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-76.png",
+					"region": {
+						"x": 239,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-80.png",
+					"region": {
+						"x": 273,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-81.png",
+					"region": {
+						"x": 103,
+						"y": 205,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-82.png",
+					"region": {
+						"x": 137,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-83.png",
+					"region": {
+						"x": 171,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-84.png",
+					"region": {
+						"x": 205,
+						"y": 103,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-85.png",
+					"region": {
+						"x": 239,
+						"y": 69,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-86.png",
+					"region": {
+						"x": 273,
+						"y": 35,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-95.png",
+					"region": {
+						"x": 307,
+						"y": 1,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-96.png",
+					"region": {
+						"x": 137,
+						"y": 205,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-97.png",
+					"region": {
+						"x": 171,
+						"y": 171,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-98.png",
+					"region": {
+						"x": 205,
+						"y": 137,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-131.png",
+					"region": {
+						"x": 239,
+						"y": 103,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-132.png",
+					"region": {
+						"x": 273,
+						"y": 69,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-133.png",
+					"region": {
+						"x": 307,
+						"y": 35,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-134.png",
+					"region": {
+						"x": 341,
+						"y": 1,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-39.png",
+					"region": {
+						"x": 171,
+						"y": 205,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 1,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-67.png",
+					"region": {
+						"x": 171,
+						"y": 238,
+						"w": 32,
+						"h": 17
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-40.png",
+					"region": {
+						"x": 205,
+						"y": 171,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-9.png",
+					"region": {
+						"x": 239,
+						"y": 136,
+						"w": 32,
+						"h": 31
+					},
+					"margin": {
+						"x": 0,
+						"y": 1,
+						"w": 0,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-12.png",
+					"region": {
+						"x": 273,
+						"y": 102,
+						"w": 32,
+						"h": 30
+					},
+					"margin": {
+						"x": 0,
+						"y": 2,
+						"w": 0,
+						"h": 2
+					}
+				},
+				{
+					"filename": "interior-120.png",
+					"region": {
+						"x": 307,
+						"y": 68,
+						"w": 32,
+						"h": 30
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 2
+					}
+				},
+				{
+					"filename": "interior-14.png",
+					"region": {
+						"x": 341,
+						"y": 34,
+						"w": 32,
+						"h": 30
+					},
+					"margin": {
+						"x": 0,
+						"y": 2,
+						"w": 0,
+						"h": 2
+					}
+				},
+				{
+					"filename": "interior-44.png",
+					"region": {
+						"x": 375,
+						"y": 1,
+						"w": 32,
+						"h": 30
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 2
+					}
+				},
+				{
+					"filename": "interior-28.png",
+					"region": {
+						"x": 205,
+						"y": 204,
+						"w": 29,
+						"h": 32
+					},
+					"margin": {
+						"x": 3,
+						"y": 0,
+						"w": 3,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-87.png",
+					"region": {
+						"x": 205,
+						"y": 238,
+						"w": 32,
+						"h": 17
+					},
+					"margin": {
+						"x": 0,
+						"y": 15,
+						"w": 0,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-109.png",
+					"region": {
+						"x": 239,
+						"y": 169,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 4,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-112.png",
+					"region": {
+						"x": 273,
+						"y": 134,
+						"w": 29,
+						"h": 31
+					},
+					"margin": {
+						"x": 2,
+						"y": 1,
+						"w": 3,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-115.png",
+					"region": {
+						"x": 307,
+						"y": 100,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-116.png",
+					"region": {
+						"x": 341,
+						"y": 66,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-123.png",
+					"region": {
+						"x": 375,
+						"y": 33,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-124.png",
+					"region": {
+						"x": 409,
+						"y": 1,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-13.png",
+					"region": {
+						"x": 341,
+						"y": 96,
+						"w": 28,
+						"h": 32
+					},
+					"margin": {
+						"x": 4,
+						"y": 0,
+						"w": 4,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-50.png",
+					"region": {
+						"x": 375,
+						"y": 63,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 4,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-89.png",
+					"region": {
+						"x": 409,
+						"y": 31,
+						"w": 32,
+						"h": 28
+					},
+					"margin": {
+						"x": 0,
+						"y": 4,
+						"w": 0,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-100.png",
+					"region": {
+						"x": 443,
+						"y": 1,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-101.png",
+					"region": {
+						"x": 409,
+						"y": 61,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-22.png",
+					"region": {
+						"x": 443,
+						"y": 30,
+						"w": 31,
+						"h": 28
+					},
+					"margin": {
+						"x": 1,
+						"y": 1,
+						"w": 1,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-7.png",
+					"region": {
+						"x": 443,
+						"y": 60,
+						"w": 31,
+						"h": 28
+					},
+					"margin": {
+						"x": 1,
+						"y": 2,
+						"w": 1,
+						"h": 4
+					}
+				},
+				{
+					"filename": "interior-20.png",
+					"region": {
+						"x": 35,
+						"y": 239,
+						"w": 20,
+						"h": 16
+					},
+					"margin": {
+						"x": 6,
+						"y": 1,
+						"w": 12,
+						"h": 16
+					}
+				},
+				{
+					"filename": "interior-60.png",
+					"region": {
+						"x": 273,
+						"y": 167,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-129.png",
+					"region": {
+						"x": 477,
+						"y": 1,
+						"w": 25,
+						"h": 31
+					},
+					"margin": {
+						"x": 7,
+						"y": 1,
+						"w": 7,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-118.png",
+					"region": {
+						"x": 476,
+						"y": 34,
+						"w": 30,
+						"h": 24
+					},
+					"margin": {
+						"x": 2,
+						"y": 0,
+						"w": 2,
+						"h": 8
+					}
+				},
+				{
+					"filename": "interior-107.png",
+					"region": {
+						"x": 476,
+						"y": 60,
+						"w": 30,
+						"h": 22
+					},
+					"margin": {
+						"x": 2,
+						"y": 10,
+						"w": 2,
+						"h": 10
+					}
+				},
+				{
+					"filename": "interior-94.png",
+					"region": {
+						"x": 57,
+						"y": 239,
+						"w": 32,
+						"h": 10
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 22
+					}
+				},
+				{
+					"filename": "interior-103.png",
+					"region": {
+						"x": 236,
+						"y": 204,
+						"w": 7,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-42.png",
+					"region": {
+						"x": 245,
+						"y": 199,
+						"w": 25,
+						"h": 32
+					},
+					"margin": {
+						"x": 3,
+						"y": 0,
+						"w": 7,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-108.png",
+					"region": {
+						"x": 245,
+						"y": 233,
+						"w": 32,
+						"h": 22
+					},
+					"margin": {
+						"x": 0,
+						"y": 10,
+						"w": 0,
+						"h": 10
+					}
+				},
+				{
+					"filename": "interior-104.png",
+					"region": {
+						"x": 272,
+						"y": 199,
+						"w": 14,
+						"h": 32
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 18,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-75.png",
+					"region": {
+						"x": 279,
+						"y": 233,
+						"w": 32,
+						"h": 22
+					},
+					"margin": {
+						"x": 0,
+						"y": 10,
+						"w": 0,
+						"h": 10
+					}
+				},
+				{
+					"filename": "interior-126.png",
+					"region": {
+						"x": 288,
+						"y": 196,
+						"w": 19,
+						"h": 32
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 13,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-21.png",
+					"region": {
+						"x": 91,
+						"y": 239,
+						"w": 26,
+						"h": 10
+					},
+					"margin": {
+						"x": 4,
+						"y": 5,
+						"w": 6,
+						"h": 22
+					}
+				},
+				{
+					"filename": "interior-102.png",
+					"region": {
+						"x": 304,
+						"y": 134,
+						"w": 20,
+						"h": 31
+					},
+					"margin": {
+						"x": 6,
+						"y": 0,
+						"w": 12,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-61.png",
+					"region": {
+						"x": 326,
+						"y": 130,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-62.png",
+					"region": {
+						"x": 307,
+						"y": 167,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-77.png",
+					"region": {
+						"x": 309,
+						"y": 196,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-78.png",
+					"region": {
+						"x": 313,
+						"y": 225,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-127.png",
+					"region": {
+						"x": 341,
+						"y": 159,
+						"w": 19,
+						"h": 32
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 13,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-57.png",
+					"region": {
+						"x": 343,
+						"y": 193,
+						"w": 19,
+						"h": 29
+					},
+					"margin": {
+						"x": 6,
+						"y": 3,
+						"w": 13,
+						"h": 3
+					}
+				},
+				{
+					"filename": "interior-68.png",
+					"region": {
+						"x": 347,
+						"y": 224,
+						"w": 14,
+						"h": 31
+					},
+					"margin": {
+						"x": 10,
+						"y": 1,
+						"w": 18,
+						"h": 1
+					}
+				},
+				{
+					"filename": "interior-79.png",
+					"region": {
+						"x": 360,
+						"y": 130,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-92.png",
+					"region": {
+						"x": 371,
+						"y": 96,
+						"w": 23,
+						"h": 32
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 9,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-93.png",
+					"region": {
+						"x": 362,
+						"y": 159,
+						"w": 23,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-128.png",
+					"region": {
+						"x": 364,
+						"y": 193,
+						"w": 19,
+						"h": 32
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 13,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-99.png",
+					"region": {
+						"x": 363,
+						"y": 227,
+						"w": 32,
+						"h": 27
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 5
+					}
+				},
+				{
+					"filename": "interior-105.png",
+					"region": {
+						"x": 385,
+						"y": 193,
+						"w": 14,
+						"h": 32
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 18,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-56.png",
+					"region": {
+						"x": 387,
+						"y": 159,
+						"w": 14,
+						"h": 32
+					},
+					"margin": {
+						"x": 10,
+						"y": 0,
+						"w": 18,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-91.png",
+					"region": {
+						"x": 396,
+						"y": 93,
+						"w": 7,
+						"h": 32
+					},
+					"margin": {
+						"x": 25,
+						"y": 0,
+						"w": 25,
+						"h": 0
+					}
+				},
+				{
+					"filename": "interior-35.png",
+					"region": {
+						"x": 119,
+						"y": 239,
+						"w": 25,
+						"h": 15
+					},
+					"margin": {
+						"x": 3,
+						"y": 0,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "interior-5.png",
+					"region": {
+						"x": 146,
+						"y": 239,
+						"w": 10,
+						"h": 16
+					},
+					"margin": {
+						"x": 11,
+						"y": 0,
+						"w": 22,
+						"h": 16
+					}
+				},
+				{
+					"filename": "interior-110.png",
+					"region": {
+						"x": 409,
+						"y": 90,
+						"w": 32,
+						"h": 25
+					},
+					"margin": {
+						"x": 0,
+						"y": 7,
+						"w": 0,
+						"h": 7
+					}
+				},
+				{
+					"filename": "interior-111.png",
+					"region": {
+						"x": 443,
+						"y": 90,
+						"w": 32,
+						"h": 25
+					},
+					"margin": {
+						"x": 0,
+						"y": 7,
+						"w": 0,
+						"h": 7
+					}
+				},
+				{
+					"filename": "interior-23.png",
+					"region": {
+						"x": 477,
+						"y": 84,
+						"w": 20,
+						"h": 24
+					},
+					"margin": {
+						"x": 6,
+						"y": 3,
+						"w": 12,
+						"h": 8
+					}
+				},
+				{
+					"filename": "interior-119.png",
+					"region": {
+						"x": 405,
+						"y": 117,
+						"w": 32,
+						"h": 24
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 8
+					}
+				},
+				{
+					"filename": "interior-121.png",
+					"region": {
+						"x": 439,
+						"y": 117,
+						"w": 32,
+						"h": 25
+					},
+					"margin": {
+						"x": 0,
+						"y": 7,
+						"w": 0,
+						"h": 7
+					}
+				},
+				{
+					"filename": "interior-47.png",
+					"region": {
+						"x": 403,
+						"y": 143,
+						"w": 32,
+						"h": 26
+					},
+					"margin": {
+						"x": 0,
+						"y": 6,
+						"w": 0,
+						"h": 6
+					}
+				},
+				{
+					"filename": "interior-88.png",
+					"region": {
+						"x": 437,
+						"y": 144,
+						"w": 32,
+						"h": 25
+					},
+					"margin": {
+						"x": 0,
+						"y": 7,
+						"w": 0,
+						"h": 7
+					}
+				},
+				{
+					"filename": "interior-48.png",
+					"region": {
+						"x": 403,
+						"y": 171,
+						"w": 32,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 11,
+						"w": 0,
+						"h": 11
+					}
+				},
+				{
+					"filename": "interior-49.png",
+					"region": {
+						"x": 437,
+						"y": 171,
+						"w": 32,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 11,
+						"w": 0,
+						"h": 11
+					}
+				},
+				{
+					"filename": "interior-90.png",
+					"region": {
+						"x": 401,
+						"y": 194,
+						"w": 32,
+						"h": 22
+					},
+					"margin": {
+						"x": 0,
+						"y": 10,
+						"w": 0,
+						"h": 10
+					}
+				},
+				{
+					"filename": "interior-73.png",
+					"region": {
+						"x": 435,
+						"y": 194,
+						"w": 32,
+						"h": 21
+					},
+					"margin": {
+						"x": 0,
+						"y": 11,
+						"w": 0,
+						"h": 11
+					}
+				},
+				{
+					"filename": "interior-65.png",
+					"region": {
+						"x": 401,
+						"y": 218,
+						"w": 32,
+						"h": 18
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 14
+					}
+				},
+				{
+					"filename": "interior-37.png",
+					"region": {
+						"x": 397,
+						"y": 238,
+						"w": 24,
+						"h": 17
+					},
+					"margin": {
+						"x": 4,
+						"y": 0,
+						"w": 8,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-66.png",
+					"region": {
+						"x": 435,
+						"y": 217,
+						"w": 32,
+						"h": 18
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 14
+					}
+				},
+				{
+					"filename": "interior-24.png",
+					"region": {
+						"x": 423,
+						"y": 238,
+						"w": 19,
+						"h": 17
+					},
+					"margin": {
+						"x": 6,
+						"y": 0,
+						"w": 13,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-130.png",
+					"region": {
+						"x": 444,
+						"y": 237,
+						"w": 19,
+						"h": 18
+					},
+					"margin": {
+						"x": 0,
+						"y": 14,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "interior-135.png",
+					"region": {
+						"x": 465,
+						"y": 237,
+						"w": 19,
+						"h": 18
+					},
+					"margin": {
+						"x": 0,
+						"y": 14,
+						"w": 13,
+						"h": 14
+					}
+				},
+				{
+					"filename": "interior-136.png",
+					"region": {
+						"x": 473,
+						"y": 117,
+						"w": 17,
+						"h": 22
+					},
+					"margin": {
+						"x": 0,
+						"y": 10,
+						"w": 15,
+						"h": 10
+					}
+				},
+				{
+					"filename": "interior-25.png",
+					"region": {
+						"x": 492,
+						"y": 110,
+						"w": 14,
+						"h": 17
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-36.png",
+					"region": {
+						"x": 492,
+						"y": 129,
+						"w": 14,
+						"h": 17
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-38.png",
+					"region": {
+						"x": 471,
+						"y": 144,
+						"w": 19,
+						"h": 20
+					},
+					"margin": {
+						"x": 4,
+						"y": 12,
+						"w": 13,
+						"h": 12
+					}
+				},
+				{
+					"filename": "interior-41.png",
+					"region": {
+						"x": 492,
+						"y": 148,
+						"w": 14,
+						"h": 17
+					},
+					"margin": {
+						"x": 10,
+						"y": 15,
+						"w": 18,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-6.png",
+					"region": {
+						"x": 471,
+						"y": 166,
+						"w": 18,
+						"h": 17
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 14,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-11.png",
+					"region": {
+						"x": 491,
+						"y": 167,
+						"w": 13,
+						"h": 17
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-26.png",
+					"region": {
+						"x": 471,
+						"y": 185,
+						"w": 13,
+						"h": 17
+					},
+					"margin": {
+						"x": 9,
+						"y": 0,
+						"w": 19,
+						"h": 15
+					}
+				},
+				{
+					"filename": "interior-10.png",
+					"region": {
+						"x": 469,
+						"y": 204,
+						"w": 12,
+						"h": 17
+					},
+					"margin": {
+						"x": 10,
+						"y": 0,
+						"w": 20,
+						"h": 15
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fa802ea5ca480bcb4786a00bdbc36c8d:f9a7ff91235cf4ca713c2c455ec9e6bf:97060d48b62bf4f46e4492532db94f53$"
+	}
+}

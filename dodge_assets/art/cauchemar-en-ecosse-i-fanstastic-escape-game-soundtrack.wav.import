@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/cauchemar-en-ecosse-i-fanstastic-escape-game-soundtrack.wav-71e1b3ef3c78677d4c68c86e99a5adf8.sample"
+
+[deps]
+
+source_file="res://dodge_assets/art/cauchemar-en-ecosse-i-fanstastic-escape-game-soundtrack.wav"
+dest_files=[ "res://.import/cauchemar-en-ecosse-i-fanstastic-escape-game-soundtrack.wav-71e1b3ef3c78677d4c68c86e99a5adf8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
